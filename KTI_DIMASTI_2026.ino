@@ -12,7 +12,7 @@
 #include <Wire.h>
 
 // === WiFi ===
-const char* ssid = "HotSpot Pesantren";
+const char* ssid = "@UPI.EDU";
 const char* password = ""; // open network
 
 // === Telegram ===
